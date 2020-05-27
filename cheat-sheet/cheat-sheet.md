@@ -130,7 +130,6 @@ f1...$ git add pull-training-nochmal.txt
 f1...$ git commit -m "Noch eine neue Datei im ersten Fenster" .
 ```
 
-
 #### 1170
 
 Fenster1: Veröffentliche die Änderungen
