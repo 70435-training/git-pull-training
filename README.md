@@ -56,19 +56,19 @@ Ablauf
 ### Durchführung
 
 - Fenster 1: Hierin erledigst Du "Deine Aufgaben"
-- Fenster 2: Hierin simulierst Du einen Kollegen, der parallel zu Dir
+- **Fenster 2**: Hierin simulierst Du einen Kollegen, der parallel zu Dir
   am gleichen Git-Projekt arbeitet
 - Fenster 1: Lege eine neue Datei an
     - Name: pull-training-neu.txt
     - Inhalt: "Ich finde es gut!"
     - [Hilfe](cheat-sheet/cheat-sheet.md#1100)
 - Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/cheat-sheet.md#1110)
-- Fenster 2: Lege eine neue Datei an
+- **Fenster 2**: Lege eine neue Datei an
     - Name: pull-training-kollege.txt
     - Inhalt: "Ich finde es supergut!"
     - [Hilfe](cheat-sheet/cheat-sheet.md#1120)
-- Fenster 2: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/cheat-sheet.md#1130)
-- Fenster 2: Veröffentliche die Änderung [(Hilfe)](cheat-sheet/cheat-sheet.md#1140)
+- **Fenster 2**: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/cheat-sheet.md#1130)
+- **Fenster 2**: Veröffentliche die Änderung [(Hilfe)](cheat-sheet/cheat-sheet.md#1140)
 - Fenster 1: Lege noch eine neue Datei an
     - Name: pull-training-nochmal.txt
     - Inhalt: "Langsam wird's langweilig!"
