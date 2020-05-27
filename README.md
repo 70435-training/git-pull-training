@@ -13,7 +13,6 @@ Voraussetzungen
 
 Seitens der "Infrastruktur" gibt es diese Voraussetzungen:
 
-* Firefox ist installiert (Chrome geht nicht) [(Hilfe)](cheat-sheet/0800.md)
 * Git-Kommandozeilen-Tools sind installiert [(Hilfe)](cheat-sheet/0810.md)
 * Gitg ist installiert [(Hilfe)](cheat-sheet/0900.md)
 * Fork von diesem Repo ist angelegt, Arbeit erfolgt nur an
@@ -21,7 +20,6 @@ Seitens der "Infrastruktur" gibt es diese Voraussetzungen:
 * Du hast zwei lokale Clones vom Fork [(Hilfe)](cheat-sheet/0910.md)
 * Du hast zwei Kommandozeilenfenster, deren Arbeitsverzeichnis
   sich in jeweils einer lokalen Clone-Instanz befindet
-* Diese Anleitung kann in Firefox gesichtet werden: `firefox index.html`
 
 Seitens der Kenntnisse:
 
@@ -46,9 +44,6 @@ Ablauf
 
 ### Vorbereitungen
 
-- Öffne dieses Dokument in Firefox mit `firefox index.html`,
-  damit Du direkten Zugriff auf die "cheat sheets" bekommen kannst
-  (Chrome geht nicht, Browsen via Github o.ä. geht nicht)
 - Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind in beiden Fenstern [(Hilfe)](cheat-sheet/1010.md)
 - Visualisiere die Situation in beiden Fenstern [(Hilfe)](cheat-sheet/1020.md)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen in beiden Fenstern!
