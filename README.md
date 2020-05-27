@@ -13,12 +13,12 @@ Voraussetzungen
 
 Seitens der "Infrastruktur" gibt es diese Voraussetzungen:
 
-* Firefox ist installiert (Chrome geht nicht) [(Hilfe)](cheat-sheet/cheat-sheet.md#0800)
-* Git-Kommandozeilen-Tools sind installiert [(Hilfe)](cheat-sheet/cheat-sheet.md#0810)
-* Gitg ist installiert [(Hilfe)](cheat-sheet/cheat-sheet.md#0900)
+* Firefox ist installiert (Chrome geht nicht) [(Hilfe)](cheat-sheet/0800.md)
+* Git-Kommandozeilen-Tools sind installiert [(Hilfe)](cheat-sheet/0810.md)
+* Gitg ist installiert [(Hilfe)](cheat-sheet/0900.md)
 * Fork von diesem Repo ist angelegt, Arbeit erfolgt nur an
   diesem Fork
-* Du hast zwei lokale Clones vom Fork [(Hilfe)](cheat-sheet/cheat-sheet.md#0910)
+* Du hast zwei lokale Clones vom Fork [(Hilfe)](cheat-sheet/0910.md)
 * Du hast zwei Kommandozeilenfenster, deren Arbeitsverzeichnis
   sich in jeweils einer lokalen Clone-Instanz befindet
 * Diese Anleitung kann in Firefox gesichtet werden: `firefox index.html`
@@ -49,8 +49,8 @@ Ablauf
 - Öffne dieses Dokument in Firefox mit `firefox index.html`,
   damit Du direkten Zugriff auf die "cheat sheets" bekommen kannst
   (Chrome geht nicht, Browsen via Github o.ä. geht nicht)
-- Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind in beiden Fenstern [(Hilfe)](cheat-sheet/cheat-sheet.md#1010)
-- Visualisiere die Situation in beiden Fenstern [(Hilfe)](cheat-sheet/cheat-sheet.md#1020)
+- Stelle sicher, dass alle Änderungen am zentralen Repo bei Dir lokal verfügbar sind in beiden Fenstern [(Hilfe)](cheat-sheet/1010.md)
+- Visualisiere die Situation in beiden Fenstern [(Hilfe)](cheat-sheet/1020.md)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen in beiden Fenstern!
 
 ### Durchführung
@@ -61,20 +61,20 @@ Ablauf
 - Fenster 1: Lege eine neue Datei an
     - Name: pull-training-neu.txt
     - Inhalt: "Ich finde es gut!"
-    - [Hilfe](cheat-sheet/cheat-sheet.md#1100)
-- Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/cheat-sheet.md#1110)
+    - [Hilfe](cheat-sheet/1100.md)
+- Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/1110.md)
 - **Fenster 2**: Lege eine neue Datei an
     - Name: pull-training-kollege.txt
     - Inhalt: "Ich finde es supergut!"
-    - [Hilfe](cheat-sheet/cheat-sheet.md#1120)
-- **Fenster 2**: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/cheat-sheet.md#1130)
-- **Fenster 2**: Veröffentliche die Änderung [(Hilfe)](cheat-sheet/cheat-sheet.md#1140)
+    - [Hilfe](cheat-sheet/1120.md)
+- **Fenster 2**: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/1130.md)
+- **Fenster 2**: Veröffentliche die Änderung [(Hilfe)](cheat-sheet/1140.md)
 - Fenster 1: Lege noch eine neue Datei an
     - Name: pull-training-nochmal.txt
     - Inhalt: "Langsam wird's langweilig!"
-    - [Hilfe](cheat-sheet/cheat-sheet.md#1150)
-- Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/cheat-sheet.md#1160)
-- Fenster 1: Veröffentliche die Änderungen [(Hilfe)](cheat-sheet/cheat-sheet.md#1170)
+    - [Hilfe](cheat-sheet/1150.md)
+- Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/1160.md)
+- Fenster 1: Veröffentliche die Änderungen [(Hilfe)](cheat-sheet/1170.md)
 
 **ABBRUCH**
 
