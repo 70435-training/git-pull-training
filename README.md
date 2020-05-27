@@ -13,12 +13,12 @@ Voraussetzungen
 
 Seitens der "Infrastruktur" gibt es diese Voraussetzungen:
 
-* Firefox ist installiert (Chrome geht nicht)
-* Git-Kommandozeilen-Tools sind installiert
+* Firefox ist installiert (Chrome geht nicht) [(Hilfe)](cheat-sheet/cheat-sheet.md#0800)
+* Git-Kommandozeilen-Tools sind installiert [(Hilfe)](cheat-sheet/cheat-sheet.md#0810)
 * Gitg ist installiert [(Hilfe)](cheat-sheet/cheat-sheet.md#0900)
 * Fork von diesem Repo ist angelegt, Arbeit erfolgt nur an
   diesem Fork
-* Du hast zwei lokale Clones vom Fork [(Hilfe)](cheat-sheet/cheat-sheet.md#0900)
+* Du hast zwei lokale Clones vom Fork [(Hilfe)](cheat-sheet/cheat-sheet.md#0910)
 * Du hast zwei Kommandozeilenfenster, deren Arbeitsverzeichnis
   sich in jeweils einer lokalen Clone-Instanz befindet
 * Diese Anleitung kann in Firefox gesichtet werden: `firefox index.html`
@@ -55,11 +55,28 @@ Ablauf
 
 ### Durchführung
 
-- Branch "experiment" auschecken [(Hilfe)](cheat-sheet/cheat-sheet.md#1110)
-- Branch "experiment" aktualisieren [(Hilfe)](cheat-sheet/cheat-sheet.md#1120)
-- Rebase durchführen [(Hilfe)](cheat-sheet/cheat-sheet.md#1130)
-- Sichten [(Hilfe)](cheat-sheet/cheat-sheet.md#1140)
-- Ergebnis "veröffentlichen" [(Hilfe)](cheat-sheet/cheat-sheet.md#1150)
+- Fenster 1: Hierin erledigst Du "Deine Aufgaben"
+- Fenster 2: Hierin simulierst Du einen Kollegen, der parallel zu Dir
+  am gleichen Git-Projekt arbeitet
+- Fenster 1: Lege eine neue Datei an
+    - Name: pull-training-neu.txt
+    - Inhalt: "Ich finde es gut!"
+    - [Hilfe](cheat-sheet/cheat-sheet.md#1100)
+- Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/cheat-sheet.md#1110)
+- Fenster 2: Lege eine neue Datei an
+    - Name: pull-training-kollege.txt
+    - Inhalt: "Ich finde es supergut!"
+    - [Hilfe](cheat-sheet/cheat-sheet.md#1120)
+- Fenster 2: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/cheat-sheet.md#1130)
+- Fenster 2: Veröffentliche die Änderung [(Hilfe)](cheat-sheet/cheat-sheet.md#1140)
+- Fenster 1: Lege noch eine neue Datei an
+    - Name: pull-training-nochmal.txt
+    - Inhalt: "Langsam wird's langweilig!"
+    - [Hilfe](cheat-sheet/cheat-sheet.md#1150)
+- Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/cheat-sheet.md#1160)
+- Fenster 1: Veröffentliche die Änderungen [(Hilfe)](cheat-sheet/cheat-sheet.md#1170)
+
+**ABBRUCH**
 
 Nachkontrolle
 -------------
