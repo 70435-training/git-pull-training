@@ -12,18 +12,6 @@ Firefox installieren
 $ sudo apt-get install firefox
 ```
 
-<html>
-html, body {
-  height: 100%;
-}
-
-.full-height {
-  height: 100%;
-}
-
-<div class="full-height">..</div>
-</html>
-
 ### 0810
 
 Git-Kommandozeilen-Tools installieren
