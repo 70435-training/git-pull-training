@@ -91,7 +91,7 @@ Ablauf
 Nachkontrolle
 -------------
 
-- Visualisiere die Situation [(Hilfe)](cheat-sheet/cheat-sheet.md#1210)
+- Visualisiere die Situation [(Hilfe)](cheat-sheet/cheat-sheet.md/1330.md)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Vergleiche Dein Bild strukturell mit [images/pull-final.png](images/pull-final.png)
 
