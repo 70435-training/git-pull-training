@@ -29,7 +29,7 @@ Seitens der Kenntnisse:
 Ausgangsituation
 ----------------
 
-![Ausgangssituation](images/start.png)
+![Ausgangssituation](images/pull-start.png)
 
 Die Ausgangssituation sieht so aus:
 
