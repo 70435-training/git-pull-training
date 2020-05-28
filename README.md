@@ -69,17 +69,31 @@ Ablauf
     - Inhalt: "Langsam wird's langweilig!"
     - [Hilfe](cheat-sheet/1150.md)
 - Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/1160.md)
-- Fenster 1: Veröffentliche die Änderungen [(Hilfe)](cheat-sheet/1170.md)
-
-**ABBRUCH**
+- Fenster 1: Veröffentliche die Änderungen - geht nur mit Einbindung von `git pull` [(Hilfe)](cheat-sheet/1170.md)
+- Fenster 1: Visualisiere den Zwischenstand - was hat sich geändert? [(Hilfe)](cheat-sheet/1180.md)
+- Fenster 1: Modifiziere eine Datei
+    - Name: pull-training-nochmal.txt
+    - Zusätzliche Zeile: "Immer noch was!"
+    - [Hilfe](cheat-sheet/1210.md)
+- Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/1220.md)
+- **Fenster 2**: Änderungen vom zentralen Repo abholen  [(Hilfe)](cheat-sheet/1230.md)
+- **Fenster 2**: Modifiziere eine Datei
+    - Name: pull-training-kollege.txt
+    - Inhalt: "Auch hier noch eine Zeile!"
+    - [Hilfe](cheat-sheet/1240.md)
+- **Fenster 2**: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/1250.md)
+- **Fenster 2**: Veröffentliche die Änderung [(Hilfe)](cheat-sheet/1260.md)
+- Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/1310.md)
+- Fenster 1: Veröffentliche die Änderungen - diesmal mit `git pull --rebase` [(Hilfe)](cheat-sheet/1320.md)
+- Fenster 1: Visualisiere den Endstand - was hat sich geändert? [(Hilfe)](cheat-sheet/1330.md)
+    - Worin unterscheidet qualitativ sich der Zwischenstand vom Endstand?
 
 Nachkontrolle
 -------------
 
 - Visualisiere die Situation [(Hilfe)](cheat-sheet/cheat-sheet.md#1210)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
-- Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
-- Vergleiche Dein Bild strukturell mit [images/final.png](images/final.png)
+- Vergleiche Dein Bild strukturell mit [images/pull-final.png](images/pull-final.png)
 
 Abschluß
 --------
