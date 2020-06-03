@@ -83,15 +83,20 @@ Ablauf
     - [Hilfe](cheat-sheet/1240.md)
 - **Fenster 2**: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/1250.md)
 - **Fenster 2**: Veröffentliche die Änderung [(Hilfe)](cheat-sheet/1260.md)
-- Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/1310.md)
-- Fenster 1: Veröffentliche die Änderungen - diesmal mit `git pull --rebase` [(Hilfe)](cheat-sheet/1320.md)
-- Fenster 1: Visualisiere den Endstand - was hat sich geändert? [(Hilfe)](cheat-sheet/1330.md)
-    - Worin unterscheidet qualitativ sich der Zwischenstand vom Endstand?
+- Fenster 1: Modifiziere eine Datei
+    - Name: pull-training-neu.txt
+    - Zusätzliche Zeile: "Und immer noch mehr!"
+    - [Hilfe](cheat-sheet/1310.md)
+- Fenster 1: Speichere die Datei lokal in GIT [(Hilfe)](cheat-sheet/1320.md)
+- Fenster 1: Veröffentliche die Änderungen - diesmal mit `git pull --rebase` [(Hilfe)](cheat-sheet/1330.md)
+- Fenster 1: Visualisiere den Endstand - was hat sich geändert? [(Hilfe)](cheat-sheet/1340.md)
+    - Worin unterscheidet sich qualitativ der Zwischenstand vom Endstand? [(Hilfe)](cheat-sheet/1350.md)
+    
 
 Nachkontrolle
 -------------
 
-- Visualisiere die Situation [(Hilfe)](cheat-sheet/cheat-sheet.md/1330.md)
+- Visualisiere die Situation [(Hilfe)](cheat-sheet/cheat-sheet.md/1340.md)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Vergleiche Dein Bild strukturell mit [images/pull-final.png](images/pull-final.png)
 
